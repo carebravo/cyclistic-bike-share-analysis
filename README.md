@@ -13,11 +13,15 @@ Analyze how annual members and casual riders use Cyclistic bikes differently and
 
 ## Key Findings
 
-1. Members generate more trips.
-2. Casual riders take longer trips.
-3. Casual riders prefer weekends.
-4. Members exhibit commuting behavior.
-5. Seasonal trends affect casual riders more.
+## Key Findings
+
+## Key Findings
+
+- Annual members generated approximately **3.6 million trips**, compared to **2.0 million** by casual riders.
+- Casual riders had a significantly longer average ride duration (**22.6 minutes**) than annual members (**11.7 minutes**).
+- Casual riders showed higher riding activity during weekends, while members rode more consistently throughout the workweek.
+- Classic bikes were the preferred rideable type for both rider groups.
+- Ridership increased during the summer months, with casual riders showing the largest seasonal growth.
 
 ## Recommendations
 
@@ -28,4 +32,4 @@ Analyze how annual members and casual riders use Cyclistic bikes differently and
 
 ## Status
 
-In Progress – Tableau visualizations currently being developed.
+Completed – Google Data Analytics Capstone Project
