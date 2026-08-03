@@ -2,7 +2,7 @@
 
 ## Business Objective
 
-Analyze how annual members and casual riders use Cyclistic bikes differently and provide recommendations to increase annual memberships.
+Analyze the differences in riding behavior between annual members and casual riders, and provide data-driven recommendations to increase annual memberships.
 
 ## Tools Used
 
@@ -21,10 +21,10 @@ Analyze how annual members and casual riders use Cyclistic bikes differently and
 
 ## Recommendations
 
-- Promote membership value.
-- Target weekend riders.
-- Focus marketing during peak seasons.
-- Offer membership incentives.
+- Promote the value and long-term savings of annual memberships.
+- Target weekend riders with personalized membership campaigns.
+- Increase marketing efforts during peak riding seasons.
+- Offer incentives and promotions to encourage casual riders to become annual members.
 
 ## Status
 
