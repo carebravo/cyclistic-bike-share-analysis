@@ -1,5 +1,11 @@
 # Cyclistic Bike-Share Analysis
 
+This project was completed as part of the Google Data Analytics Professional Certificate. It analyzes Cyclistic bike-share data using SQL, Google Sheets, and Tableau to identify behavioral differences between annual members and casual riders and provide business recommendations to increase memberships.
+
+## Dashboard
+
+![Cyclistic Dashboard](visualizations/dashboard.png)
+
 ## Business Objective
 
 Analyze the differences in riding behavior between annual members and casual riders, and provide data-driven recommendations to increase annual memberships.
